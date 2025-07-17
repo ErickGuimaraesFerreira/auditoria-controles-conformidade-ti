@@ -61,5 +61,5 @@ Com base nas descobertas, as seguintes medidas foram recomendadas como urgentes 
 ## 5. Estrutura do Repositório
 
 * **/relatorios**: Contém os documentos completos da auditoria.
-    * `1_escopo_objetivos_e_avaliacao_de_risco.pdf`: Detalha o escopo, objetivos e a análise de risco inicial.
-    * `2_lista_de_verificacao_controles_e_conformidade.docx`: Apresenta a checklist preenchida de controles e conformidade com PCI DSS, GDPR e SOC, incluindo as recomendações finais.
+    * `escopo.pdf`: Detalha o escopo, objetivos e a análise de risco inicial.
+    * `checklists_de_conformidade.docx`: Apresenta a checklist preenchida de controles e conformidade com PCI DSS, GDPR e SOC, incluindo as recomendações finais.
